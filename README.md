@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elshoubky</h1>
-<h3 align="center">Well-rounded in programming with experience to allow me to work fast and cleanly</h3>
+<h3 align="center">Well-rounded in programming with experience to allow me to work fast, cleanly, and professionally</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aceatdev&label=Profile%20views&color=0e75b6&style=flat" alt="aceatdev" /> </p>
 
