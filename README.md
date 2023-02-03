@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aceatdev" alt="aceatdev" /></a> </p>
 
-- 🔭 I’m currently working on **private Unity project called "Back-to-Back"**
+- 🔭 I’m currently working on **a private Unity project called "Back-to-Back"**
 
 - 🌱 I’m currently learning **Unity's new input system**
 
