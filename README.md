@@ -44,10 +44,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
 </div>
 
----
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-ID&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
