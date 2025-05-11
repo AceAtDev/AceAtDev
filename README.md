@@ -19,7 +19,7 @@
 
 - 🧠 Software Engineer with a passion for solving real-world problems through code and systems.
 - 📍 Based in Canada, originally from.
-- 🚀 Currently building **Nour AI** (a Duolingo-inspired app
+- 🚀 Currently building **Nour AI** (a Duolingo-inspired app)
 - ☁️ Skilled in Azure, GCP, Cloudflare, and backend architecture for startups.
 - 🧱 Committed to discipline, client-first delivery, and building systems that scale.
 - 🧭 Family is my why. Freedom is my fuel.
