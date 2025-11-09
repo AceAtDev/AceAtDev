@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Software Engineer with a passion for solving real-world problems through code and systems.
-- 📍 Based in Canada.
+- 🧠 The guy to-go-to if you want someone who's really on the AI topics.
+- 📍 Yep, I newly started to contributing to Y and start up projects in AI.
 - 🚀 Currently building **Nour AI** (a Duolingo-inspired app)
 - ☁️ Skilled in Azure, GCP, Cloudflare, and backend architecture for startups.
 - 🧱 Committed to discipline, client-first delivery, and building systems that scale.
