@@ -13,6 +13,7 @@ Software Engineering student at Carleton University. I build AI products end to 
 ## Also
 
 - 1st place, SKYTRAC 2026 Hackathon: push-to-talk app for remote teams over satellite networks. I wrote most of the backend.
+- 3rd place twice in the [2026 Red Team DefTech Hackathon Series](https://redteamhack.ca/winners): Ottawa (cryptographic supply-chain provenance, [CanadaChain](https://github.com/AceAtDev/redteam-hack)) and Toronto (autonomous agent for a comms-denied vehicle simulator).
 - Backend intern at Dribbl (2025): +42% search relevance with domain-specific embeddings, 800 ms → 200 ms with vector caching.
 - Built HiringMessage (2025–2026), an AI resume-tailoring tool with paying users.
 - Contributed CI/CD test infrastructure to [trycua/cua](https://github.com/trycua/cua/pull/491).
